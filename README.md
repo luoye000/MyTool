@@ -29,7 +29,7 @@ android {
 }
 
 dependencies {
-   implementation 'com.gitee.yeluo00:MyTool:v1.0.3'
+   implementation 'com.github.luoye000:MyTool:v1.0.3'
 }
 ```
 #### 使用说明
