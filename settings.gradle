@@ -1,0 +1,3 @@
+rootProject.name = "MyTool"
+include ':app'
+include ':myUtils'
