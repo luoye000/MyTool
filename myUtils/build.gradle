@@ -1,7 +1,8 @@
 plugins {
     id 'com.android.library'
+    id 'com.github.dcendents.android-maven'
 }
-
+group='com.gitee.MyTool' // 你的项目在仓库的名字
 android {
     compileSdkVersion 28
     buildToolsVersion "28.0.0"
