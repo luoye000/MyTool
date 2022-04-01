@@ -3,6 +3,8 @@
 #### 介绍
 viewBinding 关于 activity,Adapter,Dialog,Fragment 的封装 以及包含一个BaseUtils的一个工具类
 
+#### 暂停维护 转到 https://github.com/luoye000/BaseApp
+
 #### 安装教程
 
 #### 项目：build
